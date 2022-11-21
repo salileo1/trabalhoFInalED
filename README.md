@@ -3,40 +3,43 @@ Trabalho Final de Estrutura de Dados e Arquitetura e Organização de Computador
 
 Intergrantes do Grupo: Leonardo Salinet, Lucas Muliterno Tomasini Friedrich e Eduardo Colet
 
-# Foobar
+# Programa
 
-Foobar is a Python library for dealing with word pluralization.
+Interpretador de programas em uma linguagem de pilha. Este programa realizará operações em uma pilha com espaço para 16 valores float, inicialmente vazia.
 
-## Installation
+O usuário deve fornecer um comando para ser executado, o programa irá encerrar ao encontrar STOP.
+Os comandos disponiveis para serem executados são:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+INPUT
+	Lê um valor float do dispositivo de entrada padrão e insere-o na pilha
 
-```bash
-pip install foobar
-```
+PRINT
+	Retira um valor da pilha e exibe-o na dispositivo de saída padrão
 
-## Usage
+ADD
+	Retira dois valores da pilha (A e B, na ordem de retirada), calcula B+A  e empilha o resultado
 
-```python
-import foobar
+SUB
+	Retira dois valores da pilha (A e B, na ordem de retirada), calcula B-A  e empilha o resultado
 
-# returns 'words'
-foobar.pluralize('word')
+MUL
+	Retira dois valores da pilha (A e B, na ordem de retirada), calcula B*A  e empilha o resultado
 
-# returns 'geese'
-foobar.pluralize('goose')
+DIV
+	Retira dois valores da pilha (A e B, na ordem de retirada), calcula B/A  e empilha o resultado
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+SWAP
+	Inverte a ordem dos dois valores no topo da pilha
 
-## Contributing
+DROP
+	Descarta o valor no topo da pilha
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+DUP
+	Insere na pilha uma cópia do atual valor no topo, ou seja, duplica na pilha o valor do topo
 
-Please make sure to update tests as appropriate.
+STOP
+	Encerra a execução do programa
 
-## License
+qualquer valor float
+	Insere na pilha o valor fornecido
 
-[MIT](https://choosealicense.com/licenses/mit/)
