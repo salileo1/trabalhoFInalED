@@ -44,10 +44,9 @@ qualquer valor float
 	Insere na pilha o valor fornecido
 
 # PROGRAMA EM EXECUÇÃO
-EXEMPLO:
+
 ![Screenshot from 2022-11-21 14-55-38](https://user-images.githubusercontent.com/81321358/203127621-712d0a23-77ae-4309-8abc-6d5244e22f51.png)
 
-PROGRAMA:
 ![Screenshot from 2022-11-21 15-02-43](https://user-images.githubusercontent.com/81321358/203129057-dcf588c8-4c52-4df3-9908-d9d0ceb7d5a4.png)
 
 ![Screenshot from 2022-11-21 15-03-45](https://user-images.githubusercontent.com/81321358/203129072-dfed85b2-688a-4ff4-b21e-ceb525ae2c5e.png)
