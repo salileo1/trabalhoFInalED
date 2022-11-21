@@ -3,7 +3,7 @@ Trabalho Final de Estrutura de Dados e Arquitetura e Organização de Computador
 
 Intergrantes do Grupo: Leonardo Salinet, Lucas Muliterno Tomasini Friedrich e Eduardo Colet
 
-# Programa
+# SOBRE O PROGRAMA
 
 Interpretador de programas em uma linguagem de pilha. Este programa realizará operações em uma pilha com espaço para 16 valores float, inicialmente vazia.
 
