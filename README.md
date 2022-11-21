@@ -47,7 +47,6 @@ qualquer valor float
 EXEMPLO:
 ![Screenshot from 2022-11-21 14-55-38](https://user-images.githubusercontent.com/81321358/203127621-712d0a23-77ae-4309-8abc-6d5244e22f51.png)
 
-Programa:
 ![Screenshot from 2022-11-21 15-02-43](https://user-images.githubusercontent.com/81321358/203128551-0b6c593d-e5e3-4fde-b797-fd92debf13c9.png)
 
 ![Screenshot from 2022-11-21 15-03-45](http![Screenshot![Screenshot from 2022-11-21 15-04-12](https://user-images.githubusercontent.com/81321358/203128578-5dae1a18-484d-49b4-b318-8feba3140c40.png)
